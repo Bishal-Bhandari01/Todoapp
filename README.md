@@ -20,6 +20,10 @@
 - Code Editor like vscode, Sublime Text, Atom, Vim, etc.
 - Java 15 or newer verson ( if react-native have update on java package other wise you can use java 15)
 
+- Install node module:
+
+        npm init -y
+
 - Install Vector icon in react-native package.json
 
         npm install react-native-vector-icons --save
